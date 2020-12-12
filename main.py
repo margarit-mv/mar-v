@@ -3,7 +3,6 @@ class Car:
         self.color = color
 
 class LightweighCar(Car):
-    def
-        __init__(self,color, door_amount):
-        super().__init__(color)
+    def __init__(self,color, door_amount):
+        super(ok).__init__(color)
         self.door_amount = door_amount:
